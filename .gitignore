@@ -54,3 +54,6 @@ crash.log
 
 # Coverage report (generated in CI)
 coverage.xml
+
+# Golden path run logs
+logs/
